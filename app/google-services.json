@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "661859203775",
+    "firebase_url": "https://saray-4548b.firebaseio.com",
+    "project_id": "saray-4548b",
+    "storage_bucket": "saray-4548b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661859203775:android:d3dbe591457041af2f640a",
+        "android_client_info": {
+          "package_name": "com.besan98.saray"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661859203775-m7umtg67c5i46kjn9j3vlf3gt6l7rah1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqn3tVQXhmrUnDWCtewv3SkWJG6MJICPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661859203775-m7umtg67c5i46kjn9j3vlf3gt6l7rah1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
